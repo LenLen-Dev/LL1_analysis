@@ -1,0 +1,13 @@
+E   (   TE'
+E   i   TE'
+E'  +   +TE'
+E'  )   $
+E'  #   $
+T   (   FT'
+T   i   FT'
+T'  *   *FT'
+T'  +   $
+T'  )   $
+T'  #   $
+F   (   (E)
+F   i   i
